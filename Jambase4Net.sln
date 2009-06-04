@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jambase4Net", "Jambase4Net\Jambase4Net.csproj", "{D5EAAB2A-31CD-4534-A18D-A5F9CC5C6EC4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Runner", "Runner\Runner.csproj", "{9F762E89-0B93-4D89-9C2F-A7DC4AE5BFC2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jambase4Net.Tests", "Jambase4Net.Tests\Jambase4Net.Tests.csproj", "{F689DF07-F8D5-4933-B152-5D9CC8BF072B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5EAAB2A-31CD-4534-A18D-A5F9CC5C6EC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5EAAB2A-31CD-4534-A18D-A5F9CC5C6EC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5EAAB2A-31CD-4534-A18D-A5F9CC5C6EC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5EAAB2A-31CD-4534-A18D-A5F9CC5C6EC4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F762E89-0B93-4D89-9C2F-A7DC4AE5BFC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F762E89-0B93-4D89-9C2F-A7DC4AE5BFC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F762E89-0B93-4D89-9C2F-A7DC4AE5BFC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F762E89-0B93-4D89-9C2F-A7DC4AE5BFC2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F689DF07-F8D5-4933-B152-5D9CC8BF072B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F689DF07-F8D5-4933-B152-5D9CC8BF072B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F689DF07-F8D5-4933-B152-5D9CC8BF072B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F689DF07-F8D5-4933-B152-5D9CC8BF072B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

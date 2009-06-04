@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<JamBase_Data>
+  <Results_Title></Results_Title>
+  <event>
+    <event_id>936125</event_id>
+    <artists>
+      <artist>
+        <artist_id>32490</artist_id>
+        <artist_name>Four Finger Five</artist_name>
+      </artist>
+      <artist>
+        <artist_id>37122</artist_id>
+        <artist_name>The Macpodz</artist_name>
+      </artist>
+      <artist>
+        <artist_id>2350</artist_id>
+        <artist_name>The Dead</artist_name>
+      </artist>
+      <artist>
+        <artist_id>12825</artist_id>
+        <artist_name>Future Rock</artist_name>
+      </artist>
+      <artist>
+        <artist_id>50880</artist_id>
+        <artist_name>Pretty Lights</artist_name>
+      </artist>
+      <artist>
+        <artist_id>34494</artist_id>
+        <artist_name>Shpongle</artist_name>
+      </artist>
+      <artist>
+        <artist_id>2957</artist_id>
+        <artist_name>STS9 (Sound Tribe Sector 9)</artist_name>
+      </artist>
+      <artist>
+        <artist_id>53175</artist_id>
+        <artist_name>2020Soundsystem</artist_name>
+      </artist>
+      <artist>
+        <artist_id>50085</artist_id>
+        <artist_name>John Butler</artist_name>
+      </artist>
+      <artist>
+        <artist_id>52883</artist_id>
+        <artist_name>Hill Country Revue</artist_name>
+      </artist>
+      <artist>
+        <artist_id>29009</artist_id>
+        <artist_name>Les Claypool</artist_name>
+      </artist>
+      <artist>
+        <artist_id>28692</artist_id>
+        <artist_name>Underground Orchestra</artist_name>
+      </artist>
+      <artist>
+        <artist_id>4688</artist_id>
+        <artist_name>The Black Crowes</artist_name>
+      </artist>
+      <artist>
+        <artist_id>7053</artist_id>
+        <artist_name>Railroad Earth</artist_name>
+      </artist>
+      <artist>
+        <artist_id>36092</artist_id>
+        <artist_name>Zappa Plays Zappa</artist_name>
+      </artist>
+      <artist>
+        <artist_id>623</artist_id>
+        <artist_name>Son Volt</artist_name>
+      </artist>
+      <artist>
+        <artist_id>51067</artist_id>
+        <artist_name>Wendy Darling</artist_name>
+      </artist>
+      <artist>
+        <artist_id>22704</artist_id>
+        <artist_name>Giant Panda Guerilla Dub Squad</artist_name>
+      </artist>
+    </artists>
+    <event_date>7/4/2009</event_date>
+    <venue>
+      <venue_id>74250</venue_id>
+      <venue_name>Rothbury Music Festival</venue_name>
+      <venue_city>Rothbury</venue_city>
+      <venue_state>MI</venue_state>
+      <venue_zip>49452</venue_zip>
+    </venue>
+    <ticket_url>http://www.jambase.com/Shows/Event.aspx?eventID=936125</ticket_url>
+    <event_url>http://www.jambase.com/Shows/Event.aspx?eventID=936125</event_url>
+  </event>
+</JamBase_Data> 
