@@ -11,8 +11,8 @@ namespace Runner
 
         static void Main(string[] args)
         {
-            API.Configure(api => api.APIKey = "fsz2pg4zuzmpj9c2xd9335dt");
-            IList<IEvent> events = API.Instance.Search().ByBand("The Dead").List();
+            API.Configure(api => api.APIKey = "Your Jambase API key here");
+            IList<IEvent> events = API.Instance.Search().ByBand("A Band").List();
             
             foreach (var evt in events)
             {
