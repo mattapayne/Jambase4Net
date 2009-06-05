@@ -125,7 +125,7 @@ namespace Jambase4Net
         {
             if (String.IsNullOrEmpty(instance.APIKey))
             {
-                throw new Exception("API key has not been set.");
+                Configure();
             }
         }
 

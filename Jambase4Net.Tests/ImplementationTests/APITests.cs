@@ -79,9 +79,14 @@ namespace Jambase4Net.Tests.ImplementationTests
         }
 
         [Test]
+        public void ItShouldConfigureItselfIfConfigureIsNotCalled()
+        {
+            Assert.AreEqual("A key", API.Instance.APIKey);
+        }
+
+        [Test]
         public void ItShouldHaveADefaultConfiguration()
         {
-            API.Configure();
             Assert.AreEqual("A key", API.Instance.APIKey);
         }
 
@@ -93,23 +98,14 @@ namespace Jambase4Net.Tests.ImplementationTests
         }
 
         [Test]
-        [ExpectedException(typeof(Exception))]
-        public void ItShouldThrowIfTheInstanceIsAccessedBeforeConfiguring()
-        {
-            IAPI api = API.Instance;
-        }
-
-        [Test]
         public void ItShouldUseTheDefaultWebConnectionIfNotOtherwiseSpecified()
         {
-            API.Configure();
             Assert.IsInstanceOf(typeof(DefaultWebConnection), API.Instance.Connection);
         }
 
         [Test]
         public void ItShouldUseTheDefaultBuilderIfNotOtherwiseSpecified()
         {
-            API.Configure();
             Assert.IsInstanceOf(typeof(DefaultEventBuilder), API.Instance.Builder);
         }
 
